@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClinicFlow</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="sign_in">دخول</string>
+    <string name="sign_up">تسجيل جديد</string>
+    <string name="dashboard">لوحة التحكم</string>
+    <string name="patients">المرضى</string>
+    <string name="appointments">المواعيد</string>
+    <string name="users">المستخدمون</string>
+    <string name="settings">الإعدادات</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="add">إضافة</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="loading">جاري التحميل...</string>
+    <string name="error_occurred">حدث خطأ</string>
+    <string name="no_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="offline_mode">وضع عدم الاتصال</string>
+    <string name="sync_data">مزامنة البيانات</string>
+</resources>
+

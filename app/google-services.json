@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917305168918",
+    "project_id": "clinicflow-mqtu7",
+    "storage_bucket": "clinicflow-mqtu7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917305168918:android:4190e91e303581e8a9d137",
+        "android_client_info": {
+          "package_name": "com.clinicflow.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917305168918-abc123def456ghi789jkl012mno345pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBT5rf5jIvIsSH2tw0I_S7HMjiJD7xkPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917305168918-abc123def456ghi789jkl012mno345pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
